@@ -55,3 +55,7 @@ input[type=range]:focus::-webkit-slider-runnable-track {
     -o-user-select: none;
     user-select: none;
 }
+
+.empty {
+    height: 80px;
+}
